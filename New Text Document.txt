@@ -1,0 +1,51 @@
+        //void SetUpLogin()
+        //{
+        //    #region pnlLogin
+        //    pnlLogin = new Panel();
+        //    pnlLogin.Size = new Size(this.ClientSize.Width - 6, this.ClientSize.Height - 6);
+        //    pnlLogin.Location = new Point(3, 3);
+        //    pnlLogin.BackColor = Color.FromArgb(215, 229, 242);
+        //    this.Controls.Add(pnlLogin);
+        //    #endregion
+
+        //    #region pnlUserName
+        //    pnlUserName = new Panel();
+        //    pnlUserName.Size = new Size(this.ClientSize.Width-15, 50);
+        //    pnlUserName.Location = new Point(5, 5);
+        //    pnlUserName.BackColor = Color.FromArgb(215, 229, 242);
+        //    pnlUserName.BorderStyle = BorderStyle.None;
+        //    pnlUserName.Paint += (sender, e) =>
+        //    {
+        //        Panel panel = sender as Panel;
+
+        //        // Vẽ viền cho Panel
+        //        using (Pen pen = new Pen(Color.FromArgb(157, 177, 201), 1)) // Chọn màu và độ dày của viền
+        //        {
+        //            e.Graphics.DrawRectangle(pen, 0, 0, panel.Width-1, panel.Height-1);
+        //        }
+        //    };
+        //    pnlLogin.Controls.Add(pnlUserName);
+        //    #endregion
+        //    #region lbUserName
+        //    lbUserName = new Label();
+        //    lbUserName.Text = "Tên đăng nhập";
+        //    lbUserName.AutoSize = true;
+        //    lbUserName.Location = new Point(10, 10);
+        //    pnlUserName.Controls.Add(lbUserName);
+        //    #endregion
+        //    #region txbUserName
+        //    txbUserName = new TextBox();
+        //    txbUserName.Size = new Size(150, 30);
+        //    txbUserName.Location = new Point(lbUserName.Width+20, 10);
+        //    pnlUserName.Controls.Add(txbUserName);
+        //    #endregion
+
+        //    #region pnlPassword
+        //    pnlPassword = new Panel();
+        //    pnlPassword.Size = new Size(this.ClientSize.Width, 50);
+        //    pnlPassword.Location = new Point(0, pnlUserName.Height+20);
+        //    pnlPassword.BackColor = Color.FromArgb(18, 196, 213);
+        //    pnlPassword.BorderStyle = BorderStyle.FixedSingle;
+        //    pnlLogin.Controls.Add(pnlPassword);
+        //    #endregion
+        //}

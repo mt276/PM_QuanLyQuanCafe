@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM_QuanLyQuanCafe", "PM_QuanLyQuanCafe.csproj", "{DE4D17C8-A022-4DF9-BBA6-A53B5442E36B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CoffeeShop", "CoffeeShop\CoffeeShop.vdproj", "{128A35FB-A4EE-4099-A43F-28F49BD1EFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4D17C8-A022-4DF9-BBA6-A53B5442E36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4D17C8-A022-4DF9-BBA6-A53B5442E36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4D17C8-A022-4DF9-BBA6-A53B5442E36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4D17C8-A022-4DF9-BBA6-A53B5442E36B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128A35FB-A4EE-4099-A43F-28F49BD1EFF9}.Debug|Any CPU.ActiveCfg = Debug
+		{128A35FB-A4EE-4099-A43F-28F49BD1EFF9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C502A16-1CE1-467A-9B46-895D181BCC62}
+	EndGlobalSection
+EndGlobal
