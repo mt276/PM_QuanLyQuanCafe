@@ -14,7 +14,8 @@
 * Ứng dụng được xây dựng theo mô hình 3 lớp, cài đặt giao diện bằng C# Winforms.
 * Cơ sở dữ liệu bao gồm 15 procedures, 3 trigger, 1 function
 * Database Diagram:
-![Database Diagram](./img/Diagram.png)
+
+![Database Diagram](./image/Diagram.png)
 
   
 ## Yêu cầu để thực thi dự án
@@ -32,18 +33,18 @@ Mở file "./PM_QuanLyQuanCafe.sln" bằng Visual Studio 2019
 ## Giao diện
 Login form:
 
-![Login form](./img/login.png)
+![Login form](./image/login.png)
 
 Form:
 
-![form](./img/form.png)
+![form](./image/form.png)
 
 Admin Form:
 
-![Admin form](./img/adminform.png)
+![Admin form](./image/adminform.png)
 
 ## Tình trạng dự án
 Đã hoàn thành
 
 ## Liên hệ
-- [Minh Triều](https://github.com/mt276)
+[Minh Triều](https://github.com/mt276)
