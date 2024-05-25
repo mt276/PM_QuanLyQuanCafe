@@ -33,7 +33,7 @@ Mở file "./PM_QuanLyQuanCafe.sln" bằng Visual Studio 2019
 ## Giao diện
 Login form:
 
-![Login form](./image/login.png)
+![Login form](./image/loginform.png)
 
 Form:
 
